@@ -1,0 +1,5 @@
+Personel Ismi: hadhad
+Calisma Saati: 147
+Ana Odeme: ₺58.960,00
+Mesai: ₺14.740,00
+Toplam Odeme: ₺88.440,00
